@@ -1,4 +1,4 @@
-Newspaper Agency Automation Software:
+# Newspaper Agency Automation Software:
 
 This software is to be used by the manager of the news agency and his delivery persons.
   * For each delivery person, the system must print each day the publications to be delivered to each address. The addresses should be generated in consecutive order as far as possible so that the commutation of the delivery person is minimal.
